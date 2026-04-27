@@ -2,3 +2,4 @@ venv/*
 pdfs_and_data/*
 viz/*
 *.csv
+*.md
